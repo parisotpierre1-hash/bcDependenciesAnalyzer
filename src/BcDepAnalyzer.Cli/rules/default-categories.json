@@ -1,0 +1,30 @@
+{
+  "nameRules": [
+    { "pattern": "* Ledger Entry", "category": "LedgerEntry" },
+    { "pattern": "* Ledg. Entry", "category": "LedgerEntry" },
+    { "pattern": "G/L Entry", "category": "LedgerEntry" },
+    { "pattern": "Value Entry", "category": "LedgerEntry" },
+    { "pattern": "VAT Entry", "category": "LedgerEntry" },
+    { "pattern": "Item Application Entry", "category": "LedgerEntry" },
+    { "pattern": "Warehouse Entry", "category": "LedgerEntry" },
+    { "pattern": "* Register", "category": "LedgerEntry" },
+    { "pattern": "Posted *", "category": "PostedDocument" },
+    { "pattern": "Issued *", "category": "PostedDocument" },
+    { "pattern": "Sales Invoice *", "category": "PostedDocument" },
+    { "pattern": "Sales Cr.Memo *", "category": "PostedDocument" },
+    { "pattern": "Sales Shipment *", "category": "PostedDocument" },
+    { "pattern": "Purch. Inv. *", "category": "PostedDocument" },
+    { "pattern": "Purch. Cr. Memo *", "category": "PostedDocument" },
+    { "pattern": "Purch. Rcpt. *", "category": "PostedDocument" },
+    { "pattern": "Return Shipment *", "category": "PostedDocument" },
+    { "pattern": "Return Receipt *", "category": "PostedDocument" },
+    { "pattern": "Transfer Shipment *", "category": "PostedDocument" },
+    { "pattern": "Transfer Receipt *", "category": "PostedDocument" },
+    { "pattern": "* Archive", "category": "Archive" },
+    { "pattern": "* Buffer", "category": "Buffer" },
+    { "pattern": "* Log", "category": "Log" },
+    { "pattern": "* Log Entry", "category": "Log" },
+    { "pattern": "* Setup", "category": "Setup" }
+  ],
+  "overrides": []
+}
