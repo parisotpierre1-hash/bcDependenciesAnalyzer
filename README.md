@@ -12,8 +12,6 @@ It is meant for occasional, single-user analysis work, not for production use.
 - Detects circular dependencies and breaks them by listing the fields to load in a second pass ("deferred fields"). Circular dependencies made only of primary-key relations are reported as unresolvable.
 - Stores everything in a SQL Server database (browsable in SSMS) and exports CSV files and a GraphML graph (for yEd, Gephi, Cytoscape).
 
-The functional design is described in `BC_Extension_Dependency_Analyzer_MVP_Specification.md`.
-
 ## Prerequisites
 
 - .NET 10 SDK
