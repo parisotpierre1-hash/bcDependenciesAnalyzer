@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/BcDepAnalyzer.Cli/BcDepAnalyzer.Cli.csproj" />
+    <Project Path="src/BcDepAnalyzer.Core/BcDepAnalyzer.Core.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/BcDepAnalyzer.Tests/BcDepAnalyzer.Tests.csproj" />
+  </Folder>
+</Solution>
